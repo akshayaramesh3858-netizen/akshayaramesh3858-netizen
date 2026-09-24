@@ -33,8 +33,8 @@ I'm a Computer Science student passionate about building practical software proj
 
 - 🧮 **Calculator** — A responsive web-based calculator
 - ⏱️ **Timely** — A web application project
-- 🗺️ **ReliefMap** — AI-powered community disaster relief coordination platform
-- 🎓 **Campus Companion AI** — AI-powered student assistance platform
+
+  
 
 ### 📚 Learning Journey
 
